@@ -21,7 +21,7 @@
   ### 1.3 Terminal
   ### 1.4 Text Editors
   ### 1.5 IDEs
-  ### 1.6 Style Guides
+  ### 1.6 Comments
   ### 1.7 Style Guides
   ### 1.8 Project Specifications
   ### 1.9 Syntax
